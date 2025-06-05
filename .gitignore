@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 *.duckdb
 *.duckdb.wal
+*.sqlite
